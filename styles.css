@@ -1,0 +1,38 @@
+img {
+    height: 200px;
+}
+
+h3 {
+    border: 5px dotted pink;
+    padding: 15px;
+}
+
+p {
+    border: 5px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.dog {
+    border: 3px dashed blue;
+}
+
+.kitty {
+    border: 10px dotted yellow;
+    margin: 10px;
+    padding: 15px;
+}
+
+.sleeping {
+    border: 15px dashed orange;
+    margin: 10px;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.menu {
+    font-family: 'Roboto', sans-serif;
+}
